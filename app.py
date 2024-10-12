@@ -40,6 +40,8 @@ def get_comments(api_key, video_id):
 # UI dengan Streamlit
 st.title("YouTube Comments Scraper")
 
+st.write("A simple and efficient web-based application for scraping YouTube comments without limits using the YouTube Data API.")
+
 # Input API Key dan YouTube Video URL melalui form
 if "comments" not in st.session_state:
     st.session_state.comments = []
@@ -105,3 +107,10 @@ if st.session_state.comments:
                                data=txt_data, 
                                file_name=f"{file_name}.txt", 
                                mime="text/plain")
+
+st.subheader("Contact:")
+st.write("**Email:** [syukrieyansyah@gmail.com](mailto:syukrieyansyah@gmail.com) | **IG:** [@syukriyansyah_](https://instagram.com/syukriyansyah_) | **Github:** [syukriyansyah](https://github.com/syukriyansyah-ipb)")
+
+st.write("")
+
+st.write("")
