@@ -1,8 +1,7 @@
 
-### README in English
-
-```markdown
 # YouTube Comments Scraper
+
+### README in English
 
 A simple and efficient web-based application for scraping YouTube comments without limits using the YouTube Data API. The application allows you to input your YouTube API Key and a YouTube video URL, fetches all comments from the video, and provides an option to download the scraped comments as either a CSV or TXT file.
 
@@ -66,7 +65,7 @@ Thank you for using the YouTube Comments Scraper application!
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You are free to use, share, and modify this project for non-commercial purposes, but you must give appropriate credit. See the full license [here](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
 
-
+### README dalam INDONESIA
 # Teknologi yang Digunakan dalam Aplikasi YouTube Comments Scraper
 
 Aplikasi YouTube Comments Scraper dibangun dengan menggunakan berbagai teknologi dan pustaka yang memberikan kinerja yang optimal dan pengalaman pengguna yang menyenangkan. Berikut adalah rincian teknologi yang digunakan dalam aplikasi ini:
